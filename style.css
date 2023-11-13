@@ -23,17 +23,12 @@ body {
   background: rgba(0, 0, 0, .6);
 }
 
-.quote-container {
-  /* min-height: 120vh; */
-}
+
 
 h2 {
   color: red;
 }
 
-blockquote {
-  /* background-color: lightblue; */
-}
 .quote {
   /* background-color: lightgray; */
   padding: 1rem;
