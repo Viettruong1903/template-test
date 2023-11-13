@@ -17,7 +17,7 @@ async function getQuotesAPI(page,limit) {
 }
 
 
-//show Quotes
+//showQuotes
 
 function showQuotes(arr) {
   arr.forEach(element => {
